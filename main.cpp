@@ -1,5 +1,5 @@
-#include "SnakeH.h"
-#include "SnakeSource.cpp"
+#include "C:\Users\samuel\Desktop\c++ files\SnakePractice\SnakeH.h"
+#include "C:\Users\samuel\Desktop\c++ files\SnakePractice\SnakeSource.cpp"
 using namespace std;
 using namespace SnakeSpace;
 int main()
