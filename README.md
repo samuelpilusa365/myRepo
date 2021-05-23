@@ -1,30 +1,30 @@
-# git is awesome
+#### git is awesome
 git is awesome for reasons i cannot state here 
 
 
-## Use case
-### 1.Submit paper .
-### 2.Verify researcher’s paper .
-### 3.Verify Senior Researcher’s paper .
-### 4.Create account .
-### 5.Create admin account .
-### 6.Make a comment .
-## 7.Notify Admin .
-### 8.Notify Researcher .
-### 9.Notify Senior Researcher .
-### 10.Notify Executive Director .
-### 11.Evaluate Employees .
+### Use case
+- 1.Submit paper .
+- 2.Verify researcher’s paper .
+- 3.Verify Senior Researcher’s paper .
+- 4.Create account .
+- 5.Create admin account .
+- 6.Make a comment .
+- 7.Notify Admin .
+- 8.Notify Researcher .
+- 9.Notify Senior Researcher .
+- 10.Notify Executive Director .
+- 11.Evaluate Employees .
 
-## Function Requirement
-### 1.System should manage user authentication and account verification .
-### 2.System should manage files by allowing researcher and senior researcher to submit papers .
-### 3.The system should evaluate researcher ,senior researcher and administrators on a regular basis .
-### 4.The system should enable a senior researcher to verify a researchers papers and publication .
-### 5.The system should enable an executive director to verify a senior researchers papers and publications .
-### 6.System should support feedback and notification of users on accomplishment of some tasks such as file management .
-### 7.The system must be able to log and process complaints from researchers and senior researchers with regards to the work of administrators .
+### Function Requirement
+- 1.System should manage user authentication and account verification .
+- 2.System should manage files by allowing researcher and senior researcher to submit papers .
+- 3.The system should evaluate researcher ,senior researcher and administrators on a regular basis .
+- 4.The system should enable a senior researcher to verify a researchers papers and publication .
+- 5.The system should enable an executive director to verify a senior researchers papers and publications .
+- 6.System should support feedback and notification of users on accomplishment of some tasks such as file management .
+- 7.The system must be able to log and process complaints from researchers and senior researchers with regards to the work of administrators .
 
-## Validation and verification plan :
+### Validation and verification plan :
 
 | Test name   | Functional Requirement | Use case | Test condition question test | Expected outcome hypothesis |
 |-------------|------------------------|----------|------------------------------|-----------------------------|
