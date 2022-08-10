@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1658733450 source:c:\users\samuel\desktop\encrypto\main.cpp
+	<iostream>
+	<cstdlib>
+
