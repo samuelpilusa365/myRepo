@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1647944845 source:c:\users\samuel\desktop\statsportal\main.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	"Statsportal.cpp"
+
+1647947109 c:\users\samuel\desktop\statsportal\statsportal.cpp
+
