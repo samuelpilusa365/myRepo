@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1660379978 source:c:\users\samuel\desktop\trianglecombination\main.cpp
+	"Triangle.cpp"
+
+1660380087 c:\users\samuel\desktop\trianglecombination\triangle.cpp
+	"Triangle.h"
+
+1660378922 c:\users\samuel\desktop\trianglecombination\triangle.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+
