@@ -1,0 +1,3 @@
+cd bin
+cd debug
+triangleSolveCombinatorial4x4.exe

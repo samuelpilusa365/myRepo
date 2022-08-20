@@ -1,0 +1,3 @@
+cd bin
+cd debug
+triangleSolveCombinatorial3x3.exe
