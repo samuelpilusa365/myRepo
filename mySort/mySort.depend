@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1662368992 source:c:\users\samuel\desktop\mysort\main.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+
