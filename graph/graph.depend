@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1643052780 source:c:\users\samuel\desktop\graph\main.cpp
+	<iostream>
+	"plane.cpp"
+
+1643085515 c:\users\samuel\desktop\graph\plane.cpp
+	<iostream>
+
+1643052851 source:c:\users\samuel\desktop\graph\plane.cpp
+	<iostream>
+
